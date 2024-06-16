@@ -10,6 +10,7 @@
 #### [2. 데이터](https://github.com/kangssu/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
 #### [3. 명령어](https://github.com/kangssu/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/3.%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 #### [4. CPU의 작동원리](https://github.com/kangssu/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/4.%20CPU%EC%9D%98%20%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
+#### [5. CPU 성능 향상 기법](https://github.com/kangssu/cs-study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/5.%20CPU%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%20%EA%B8%B0%EB%B2%95.md)
 
 </br>
 
